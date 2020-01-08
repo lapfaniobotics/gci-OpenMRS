@@ -1,1 +1,1 @@
-[](images/22.png)
+https://github.com/lapfaniobotics/gci-OpenMRS/blob/master/22.png
